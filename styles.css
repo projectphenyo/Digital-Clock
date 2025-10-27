@@ -1,0 +1,30 @@
+/* body */
+body {
+    font-family: sans-serif;
+    color: #ffffffed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #DEB33C;
+}
+
+/* clock container */
+.clock-container {
+    border: solid 3px;
+    color: #ffffffed;
+    border-radius: 7px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
+    font-size: 2em;
+    padding: 20px 30px;
+    background-color: #27272A;
+}
+/* clock time */
+.clock {
+    text-align: center;
+
+}
+/* clock date */
+.date {
+    text-align: center;
+}
