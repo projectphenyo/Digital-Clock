@@ -18,7 +18,7 @@ A mobile-responsive South African Standard Time (SAST) digital clock built using
 - ✅ Light/Dark Mode
 
 ## 🚀 Live Demo
-[View Live Demo](https://your-deployed-link-here.com)
+[Live Demo](assets/demo.gif)
 ## 📦 Installation
 1. Clone this repository
    
