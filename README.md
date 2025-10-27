@@ -15,7 +15,6 @@ A mobile-responsive South African Standard Time (SAST) digital clock built using
 - ✅ JavaScript Alert Box
 - ✅ SAST timezone
 - ✅ Current updated time and date
-- ✅ Light/Dark Mode
 
 ## 🚀 Live Demo
 [Live Demo](assets/Demo.gif)
@@ -32,3 +31,11 @@ cd
    
  Open index.html in your browser
 
+# 📝Design Notes
+
+## 🎨Color Scheme
+•#DEB33C, #27272A: for background and clock-container
+•#ffffffed: accent color for border and text
+
+## 🔤Font Selection
+Sans-serif : for readability
