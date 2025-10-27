@@ -19,11 +19,13 @@ body {
     padding: 20px 30px;
     background-color: #27272A;
 }
+
 /* clock time */
 .clock {
     text-align: center;
 
 }
+
 /* clock date */
 .date {
     text-align: center;
