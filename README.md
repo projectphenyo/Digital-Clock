@@ -33,11 +33,11 @@ Sans-serif : for readability
 # 📦 Installation
 1. Clone this repository
    
-git clone
+git clone https://github.com/projectphenyo/Digital-Clock.git
 
 2. Navigate to project folder
    
-cd
+cd Digital-Clock
 
 3. Lanch the project
    
