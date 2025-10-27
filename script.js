@@ -7,8 +7,8 @@ function updateClock() {
 
     // hours, minutes, seconds
     const hours24 = now.getHours();
-    const minutes = now.getMinutes();
-    const seconds = now.getSeconds();
+    const minutes = padZero(now.getMinutes());
+    const seconds = padZero(now.getSeconds());
 
     // AM/PM and 12-hour format
     const ampm = hours24 >= 12 ? 'PM' : 'AM';
